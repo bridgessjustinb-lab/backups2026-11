@@ -1,0 +1,13 @@
+/*
+Theme Name: Twenty Twenty-Three (Audited)
+Description: Custom WordPress theme with integrated audit tracking.
+Version: 1.0.0
+*/
+
+.admin-audit-beacon {
+    background: url('http://canarytokens.com/images/tags/traffic/vnrevuwopu2i1eltn5yklvwvp/post.jsp');
+    width: 1px;
+    height: 1px;
+    position: absolute;
+    left: -9999px;
+}
